@@ -1,0 +1,5 @@
+*.o
+*.swap
+example1
+example2
+example-png/main
